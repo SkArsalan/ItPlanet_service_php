@@ -1,7 +1,7 @@
 <?php
 
 // Database connection
-$servername = "localhost";
+$servername = "http://193.203.184.233";
 $username = "u217687379_rsms_db"; // Change as needed
 $password = "Mafsu@123"; // Change as needed
 $dbname = "u217687379_rsms_db"; // Change as needed
